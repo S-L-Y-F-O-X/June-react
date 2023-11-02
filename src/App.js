@@ -1,7 +1,11 @@
+import {Users} from "./components/Users";
+
 const App = () => {
+
+
     return (
         <div>
-          appp
+            <Users/>
         </div>
     );
 };
